@@ -141,5 +141,6 @@ public final static double giveRevenue(double salary,double tuition) {
 
 
 ## 实验结果
-![1]()
+![1](https://github.com/panzhenyu799/expe3/blob/main/205c4c90f9aa897e6ba707cad125cca.png)
+
 ## 实验感想  
