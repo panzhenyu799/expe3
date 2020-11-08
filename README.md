@@ -142,5 +142,6 @@ public final static double giveRevenue(double salary,double tuition) {
 
 ## 实验结果
 ![1](https://github.com/panzhenyu799/expe3/blob/main/205c4c90f9aa897e6ba707cad125cca.png)
-
+![2](https://github.com/panzhenyu799/expe3/blob/main/b023be8a62b7cba2ee04f49446dfc9f.png)
 ## 实验感想  
+对Java中抽象类和抽象方法的定义有了更深刻的理解，初步掌握了Java中接口的定义，了解了接口的定义形式以及接口的实现方法，了解异常的使用方法，并在程序中根据输入情况做异常处理。开始的时候，主类中输出的时候还是会忽略抽象方法的定义，导致程序无法运行，刚开始接触异常处理，也不能很好的运用到程序中，只能靠自己不断地摸索实验，在同学的帮助下，去尽力的做好这件事。
